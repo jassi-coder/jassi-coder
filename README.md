@@ -58,9 +58,7 @@
   <a href="https://www.instagram.com/your-username" target="_blank">
     <img src="https://img.icons8.com/fluency/64/instagram-new.png" alt="Instagram" width="80" height="80"/>
   </a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/
-jaspreet-singh-2ba4392b1
-" target="_self">
+  <a href="https://www.linkedin.com/in/jaspreetsingh2003" target="_self">
     <img src="https://img.icons8.com/fluency/64/linkedin.png" alt="LinkedIn" width="80" height="80"/>
   </a>
 </p>
