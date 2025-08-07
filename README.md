@@ -52,10 +52,10 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.facebook.com/your-username" target="_blank">
+  <a href="https://www.facebook.com/your-username" target="_self">
     <img src="https://img.icons8.com/fluency/64/facebook-new.png" alt="Facebook" width="80" height="80"/>
   </a>
-  <a href="https://www.instagram.com/your-username" target="_blank">
+  <a href="https://www.instagram.com/your-username" target="_self">
     <img src="https://img.icons8.com/fluency/64/instagram-new.png" alt="Instagram" width="80" height="80"/>
   </a>
   <a href="https://www.linkedin.com/in/jaspreetsingh2003" target="_self">
