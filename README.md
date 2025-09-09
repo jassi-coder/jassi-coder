@@ -17,7 +17,7 @@
 </p>
 
 <h1 align="center">👋 Hey there, I'm Jaspreet Singh</h1>
-<h3 align="center">A Passionate Full Stack Python Developer</h3>
+<h3 align="center">Full Stack Python Developer</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jassi-coder&label=Profile%20views&color=blue&style=flat" />
 </p>
