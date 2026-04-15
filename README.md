@@ -32,10 +32,8 @@
 ### 👨‍🎓 About Me
 
 - 🎓 B.A. student at **Swami Vivekanand Subharti University**, Meerut  
-- 💼 Interned at **Appwars Technologies** *(September 17 – March 10)*  
 - 💻 I love building full-stack web apps using **Python**, **Django**, and **MySQL**
-- 🌱 I'm Currently working on **Blingring E-Commerce Jewellery Website**
-- 💬 Ask me about: **Web Dev, REST APIs, MySQL, Python, JavaScript**
+- 💬 Ask me about: **Web Dev, REST APIs, MySQL, Python, JavaScript,Pandas,Matplotlib,Numpy**
 
 
 ### 🛠️ Languages & Tools
