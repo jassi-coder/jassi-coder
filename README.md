@@ -53,7 +53,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" alt="Matplotlib" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="Numpy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="FastAPI" />
-  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" height="50" alt="API" />
+  <img src="https://www.django-rest-framework.org/img/logo.png" height="50" alt="Django REST Framework"/>
   
   
   
