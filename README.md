@@ -63,8 +63,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="Django"/>
   </a>
 
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" alt="Flask"/>
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/flask/white" height="50" alt="Flask"/>
 </a>
 
   <a href="https://www.mysql.com/" target="_blank">
