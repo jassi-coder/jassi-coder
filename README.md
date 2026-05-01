@@ -68,7 +68,7 @@
   <a href="https://www.facebook.com/your-username">
     <img src="https://img.icons8.com/fluency/64/facebook-new.png" width="60"/>
   </a>
-  <a href="https://www.instagram.com/your-username">
+  <a href="https://www.instagram.com/official_.jass2003?igsh=MWh4ZXN2MG82a2RjbA==">
     <img src="https://img.icons8.com/fluency/64/instagram-new.png" width="60"/>
   </a>
   <a href="https://www.linkedin.com/in/jaspreetsingh2003/">
