@@ -35,7 +35,8 @@
 - 🎓 B.A. student at **Swami Vivekanand Subharti University**, Meerut  
 - 💻 I love building full-stack web apps using **Python**, **Django**, and **MySQL**  
 - 📊 Exploring Data Analytics (**Pandas, NumPy, Matplotlib**)  
-- 💬 Ask me about: Web Dev, REST APIs, Python, SQL, JavaScript  
+- 💬 Ask me about: Web Dev, REST APIs, Python, SQL, JavaScript
+- Portfolio https://portfolio-website-pohn.onrender.com/
 
 ---
 
