@@ -1,102 +1,82 @@
-<!-- 🔥 Profile Banner -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20I'm%20Jaspreet%20Singh&fontAlign=center&fontColor=ffffff&colorGradient=purple" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20,%20I'm%20Jaspreet%20Singh&fontAlign=center&fontColor=ffffff&colorGradient=purple" />
 </p>
 
-<!-- 📬 Contact -->
+<!-- Contact Info below the banner -->
 <p align="center">
   <a href="mailto:singh.jaspreet2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="25px" /> 
+    <strong>singh.jaspreet2003@gmail.com</strong>
   </a>
+  &nbsp; &nbsp; 
   <a href="tel:+919315565477">
-    <img src="https://img.shields.io/badge/Call-green?style=for-the-badge&logo=phone">
-  </a>
-  <a href="https://linkedin.com/in/jaspreetsingh2003">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.icons8.com/fluency/48/phone.png" width="25px" />
+    <strong>+91 93155 65477</strong>
   </a>
 </p>
-
----
 
 <h1 align="center">👋 Hey there, I'm Jaspreet Singh</h1>
 <h3 align="center">🚀 Data Analyst | Python Full Stack Developer | Building Scalable Web Apps</h3>
 
----
-
-<!-- 👀 Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jassi-coder&label=Profile%20views&color=blue&style=flat" />
 </p>
 
----
-
-<!-- 💻 GIF -->
+<!-- GIF -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="coding gif" />
 </p>
 
 ---
 
-## 👨‍🎓 About Me
+### 👨‍🎓 About Me
 
-- 🎓 B.A. Student at **Swami Vivekanand Subharti University**, Meerut  
-- 💻 Passionate about building scalable web apps using **Python & Django**  
-- 📊 Exploring Data Analytics & Visualization  
-- 💬 Ask me about: Web Dev, REST APIs, Python, SQL  
+- 🎓 B.A. student at **Swami Vivekanand Subharti University**, Meerut  
+- 💻 I love building full-stack web apps using **Python**, **Django**, and **MySQL**  
+- 📊 Exploring Data Analytics (**Pandas, NumPy, Matplotlib**)  
+- 💬 Ask me about: **Web Dev, REST APIs, Python, SQL**
 
 ---
 
-## 🛠️ Languages & Tools
-
+### 🛠️ Languages & Tools
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50"/>
+
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/></a>
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-- 🔗 Budget Tracker App  
-- 🍔 Food Recipe Website  
-- 🎮 Tic Tac Toe Game  
-- 📍 Geo Location App (Django)  
-
----
-
-## 🌐 Connect with Me
-
+### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/jaspreetsingh2003">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://www.linkedin.com/in/jaspreetsingh2003">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:singh.jaspreet2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jassi-coder&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jassi-coder&layout=compact&theme=radical" />
 </p>
-
----
-
-⭐ Thanks for visiting my profile!
