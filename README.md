@@ -74,6 +74,10 @@
   <a href="https://www.linkedin.com/in/jaspreetsingh2003/">
     <img src="https://img.icons8.com/fluency/64/linkedin.png" width="60"/>
   </a>
+
+  <a href="https://www.hackerrank.com/profile/singh_jaspreet21">
+  <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="60"/>
+</a>
 </p>
 
 ---
