@@ -71,7 +71,7 @@
   <a href="https://www.instagram.com/your-username">
     <img src="https://img.icons8.com/fluency/64/instagram-new.png" width="60"/>
   </a>
-  <a href="https://www.linkedin.com/in/jaspreetsingh2003">
+  <a href="https://www.linkedin.com/in/jaspreetsingh2003/">
     <img src="https://img.icons8.com/fluency/64/linkedin.png" width="60"/>
   </a>
 </p>
