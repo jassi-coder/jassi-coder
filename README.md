@@ -79,6 +79,10 @@
   <a href="https://www.hackerrank.com/profile/singh_jaspreet21">
   <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="60"/>
 </a>
+
+<a href="https://leetcode.com/u/Jassi_coder/">
+  <img src="https://cdn.worldvectorlogo.com/logos/leetcode-1.svg" width="60"/>
+</a>
 </p>
 
 ---
