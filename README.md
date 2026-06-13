@@ -99,8 +99,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50"/>
 </a>
 
-<a href="https://www.selenium.dev/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="50" alt="Selenium"/>
+<a href="https://www.selenium.dev/selenium-ide/" target="_blank">
+  <img src="https://www.selenium.dev/images/selenium_logo_square_green.png"
+       height="50"
+       alt="Selenium IDE">
 </a>
 
 </p>
