@@ -100,7 +100,9 @@
 </a>
 
 <a href="https://www.selenium.dev/" target="_blank">
-    <img src="selenium-old-logo.png" height="50" alt="Selenium">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"
+       height="50"
+       alt="Selenium">
 </a>
 
 </p>
