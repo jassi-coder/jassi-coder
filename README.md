@@ -32,7 +32,7 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 B.A. student at **Swami Vivekanand Subharti University**, Meerut  
+- 🎓 MCA. student at **Mahaveer Academy Of Technology and Science University**, Chattisgarh 
 - 💻 I love building full-stack web apps using **Python**, **Django**, and **MySQL**  
 - 📊 Exploring Data Analytics (**Pandas, NumPy, Matplotlib**)  
 - 💬 Ask me about: Web Dev, REST APIs, Python, SQL, JavaScript
