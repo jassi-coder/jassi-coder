@@ -96,7 +96,7 @@
 </a>
 
 <a href="https://react.dev/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="50"/>
 </a>
 
 <a href="https://fastapi.tiangolo.com/" target="_blank">
